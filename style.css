@@ -3,16 +3,16 @@ body {
 }
 
 #banner {
-    width: 100%;
+    width: 140%;
 }
  
 .principal {
     background: rgb(23,179,179);
-    padding: 30px;
+    padding: 40px;
 }
 
 .titulo-principal {
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
 .titulo-centralizado {
