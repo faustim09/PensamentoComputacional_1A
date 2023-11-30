@@ -1,11 +1,14 @@
 body{
-background-color: rgb(23, 179, 179);
+
 }
-#titulo{
+
+#banner {
 font-size: 25px;
 text-align: center;
 color: black;
 }
+ 
+
 .texto {
     text-align: center;
     color: black;
