@@ -2,7 +2,7 @@ body {
 
 }
 
-#banner {
+#LOGO {
     width: 100%;
 }
  
@@ -24,5 +24,9 @@ p {
 }
 
 em strong {
-    color: ;
+    color: black;
+}
+
+#AVATAR{
+    width: 50%;
 }
