@@ -8,11 +8,21 @@ body {
  
 .principal {
     background: rgb(23,179,179);
+    padding: 30px;
 }
-#banner {
-    background-color: rgb(23,179,179);
-    width: 30%;
-    display: block;
-    padding: 10px;
-    margin: auto;
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: ;
 }
